@@ -2,12 +2,12 @@
 <a name="readme-top"></a>
 
 
-![ProyectoReact-GIF](https://github.com/matiassdrigotti/ProyectoFinalReact/assets/121071819/f2729ec5-9fee-4350-b5a8-50adac8c2570)
-
-
 ## Sobre el Proyecto
 El Ecommerce es un proyecto creado para la cursada REACT JS de CODERHOUSE. 
 Se trata de un ecommerce donde podes comprar telefonos, tables u/o computadoras.
+
+![ProyectoReact-GIF](https://github.com/matiassdrigotti/ProyectoFinalReact/assets/121071819/f2729ec5-9fee-4350-b5a8-50adac8c2570)
+
 
 ### Projecto Link: 
 [https://github.com/matiassdrigotti/ProyectoFinalReact.git](https://github.com/matiassdrigotti/ProyectoFinalReact.git)
