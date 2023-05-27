@@ -10,7 +10,7 @@ Se trata de un ecommerce donde podes comprar telefonos, tables u/o computadoras.
 
 
 ### Projecto Link: 
-[https://github.com/matiassdrigotti/ProyectoFinalReact.git](https://github.com/matiassdrigotti/ProyectoFinalReact.git)
+[https://github.com/matiassdrigotti/ProyectoFinalReact.git](https://github.com/matiassdrigotti/ProyectoFinalReact.git) /
 [https://proyecto-final-react-78lx-matiassdrigotti.vercel.app/](https://proyecto-final-react-78lx-matiassdrigotti.vercel.app/)
 
 
