@@ -1,0 +1,11 @@
+.ItemDetailContainer{
+    display: grid;
+    grid-template-columns: repeat(3,280px);
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    justify-content: center;
+    margin: 10px;
+    
+}
+

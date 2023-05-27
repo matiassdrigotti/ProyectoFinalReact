@@ -1,0 +1,28 @@
+.CartItem {
+    background-color: rgb(194, 189, 189);
+    margin: 0;
+
+    > img {
+        height: 250px;
+        width: 200px;
+    }
+    
+}
+
+.Contenido {
+    display: flex;
+    flex-direction: column;
+    
+    > p {
+        font-size: 20px;
+        padding: 10px;
+        font-weight: bold;
+    }
+
+    > button {
+        background-color: rgb(238, 255, 0);
+        font-size: 18px;
+        font-weight: bold;
+        
+    }
+}

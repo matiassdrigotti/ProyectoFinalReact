@@ -1,0 +1,26 @@
+.Cart {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+   
+    height: 100%;
+    width: 100%;
+    padding: 0px ;
+    
+    > h3 {
+        background-color: black;
+        color: white;
+        font-size: 20px;
+    }
+}
+
+.Buttom {
+    background-color: rgba(192, 13, 13, 0.719);
+    color: white;
+    font-size: 15px;
+    margin: 0;
+}
+
+.contenido {
+    background-color: black;
+}
