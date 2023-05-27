@@ -1,70 +1,101 @@
-# Getting Started with Create React App
+#  Electronica - Ecommerce
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Sobre el Proyecto
+El Ecommerce es un proyecto creado para la cursada REACT JS de CODERHOUSE. 
+Se trata de un ecommerce donde podes comprar telefonos, tables u/o computadoras.
 
-### `npm start`
+### Projecto Link: 
+[https://github.com/matiassdrigotti/ProyectoFinalReact.git](https://github.com/matiassdrigotti/ProyectoFinalReact.git)
+[https://proyecto-final-react-78lx-matiassdrigotti.vercel.app/](https://proyecto-final-react-78lx-matiassdrigotti.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Construido con
 
-### `npm test`
+Lista de Frameworks / Libraries que vas a necesitar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [![React][React.js]][React-url]
+* [![Node][Node.js]][Node-url]
+* [![Firebase][Firebase.com]][Firebase-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![CSS3][Css3.com]][CSS3-url]
+* [![VisualStudioCode][Visualstudio.com]][VSC-url]
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Comenzando 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Las siguientes instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-### `npm run eject`
+Mira Deployment a continuación para conocer el proyecto.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[![Generic badge](https://img.shields.io/badge/DEPLOY-SBENTRENAMIENTOS-<COLOR>.svg)](https://react-js-pf-sdrigotti-rodrigo.vercel.app/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### Pre-requisitos 
+Que cosas necesitas para instalar el software y como instalarlas:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Visual Studio Code + Firebase + Node js
 
-## Learn More
+#### Instalación 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Instrucciones para setear tu app.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clonar el repositorio
+   ```sh
+   git clone https://github.com/matiassdrigotti/ProyectoFinalReact.git
+   ```
+2. Install NPM packages para inicilizar y verlo en tu explorador en [http://localhost:3000](http://localhost:3000)
+   ```sh
+   npm install
+   ```
+3. Para la base de datos.
+   ```sh
+   npm install firebase
+   ```
+4. Para la carpeta de producción.
+   ```sh
+   npm install build
+   ```
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### Funcionalidades del proyecto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- `Funcionalidad 1`: Visualizacion de un set de productos
+- `Funcionalidad 2`: Menu para filtrar categorías
+- `Funcionalidad 3`: Acceso visible al carrito
+- `Funcionalidad 4`: Acceso a la descripción de cada producto
+- `Funcionalidad 5`: Chequeo en stock cantidad de productos
+- `Funcionalidad 6`: Formulario para la generación de orden
+- `Funcionalidad 7`: Generación de orden de compra con id y nombre de usuario
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Licencia
 
-### Advanced Configuration
+Distribuido bajo la licencia [MIT](https://choosealicense.com/licenses/mit/). Mirá `LICENSE.txt` para más información.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contacto
 
-### Deployment
+Matias Sdrigotti - [@matiassdrigotti](https://www.github.com/matiassdrigotti)
+Email: matiasdrigotti@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Node.js]: https://img.shields.io/badge/node.js-35495E?style=for-the-badge&logo=node.js&logoColor=4FC08D
+[Node-url]: https://nodejs.org/es
+[Firebase.com]: https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=firebase&logoColor=white
+[Firebase-url]: https://firebase.google.com/
+[Laravel.com]: https://img.shields.io/badge/Javascript-FF2D20?style=for-the-badge&logo=javascript&logoColor=white
+[Laravel-url]: https://laravel.com
+[Css3.com]: https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://www.w3.org/Style/CSS/Overview.en.html
+[Visualstudio.com]: https://img.shields.io/badge/VSC-0769AD?style=for-the-badge&logo=visualstudiocode&logoColor=white
+[VSC-url]: https://code.visualstudio.com
